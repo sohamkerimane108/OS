@@ -21,7 +21,7 @@ public class SumOfThreeNumbers {
         // Display the result
         System.out.println("The sum of " + num1 + ", " + num2 + ", and " + num3 + " is: " + sum);
 
-        // Close the scanner
+        System.out.println("This is updated file");// Close the scanner
         scanner.close();
     }
 }
